@@ -56,6 +56,6 @@ classDiagram
     classDef logic fill:#9f9,stroke:#070,stroke-width:2px,color:#000,font-style:italic;
     classDef connector fill:#9cf,stroke:#006,stroke-width:2px,color:#000;
 
-    %% Classes like Inspectors, Students, Professor, and Room represent key entities. Use one color for these.
+    %% Classes like Inspectors, Students, Professor, and Room represent key entities so we use one color for this
     %% Schedule manages system logic, so it can have a distinct style.
     %% Subject connects students, professors, inspectors and rooms.
